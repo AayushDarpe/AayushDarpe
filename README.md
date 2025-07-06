@@ -4,11 +4,6 @@
 
 ---
 
-## 🌟 About Me
-
-Aspiring data analyst, passionate about leveraging data-driven insights to solve real-world problems. Currently focused on building strong foundations in data analysis, aiming to make a meaningful impact in the field.
-
----
 
 ## 🛠️ Skills & Technologies
 
